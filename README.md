@@ -1,2 +1,2 @@
 # TripTip
-TripTip Hotel management system
+Hotel management system 
